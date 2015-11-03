@@ -26,6 +26,10 @@
   }
 
 
+  #content > div#resources {
+    margin-bottom: 400px
+  }
+
 
   #container p code {
     margin: 0 2px;
